@@ -1,17 +1,19 @@
 {
- "generated_at": "2026-11-13 17:22",
+ "generated_at": "2026-11-13 19:03",
  "source": "https://bonyadhayat.ir",
  "languages": [
-  "fa",
-  "en",
-  "ar"
+  "fa"
  ],
+ "stack": "nextjs",
  "counts": {
-  "posts": 123,
-  "pages": 26,
-  "terms": 21,
-  "comments": 0,
-  "menu_items": 6
+  "posts": 60,
+  "announcements": 3,
+  "pages": 24,
+  "categories": 5,
+  "slides": 4,
+  "gallery": 18,
+  "systems": 0,
+  "menu": 5
  },
- "media_files": 502
+ "media_files": 251
 }
